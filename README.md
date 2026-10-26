@@ -38,7 +38,7 @@ console.log(country);
 - ✅ Less than 19 MB memory footprint (instead of +110 MB of node-geoip)
 - ⏰ Data updated on 26th October 2026
 - 📅 Using [Calendar versioning](https://calver.org/)
-- 🌐 Production-ready, used by [Ghostboard.io](https://ghostboard.io)
+- 🌐 Production-ready, used by [Growblog.io](https://growblog.io) (aka [Ghostboard.io](https://ghostboard.io))
 - ⚡️ Dependencies updated and 5 of them removed
 - 🤓 Code reduced
 
